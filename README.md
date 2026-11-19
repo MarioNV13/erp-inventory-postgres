@@ -11,9 +11,3 @@ Aplicație web pentru gestionarea nomenclatorului de produse, urmărirea mișcă
   - Utilizarea tipului `NUMERIC(10, 2)` pentru precizie financiară.
 - **Alerte & Raportare:** Indicatori KPI în timp real, evidențierea produselor sub pragul critic și export în format CSV.
 
-## 🛠️ Cum se rulează local
-
-1. **Clonează repository-ul:**
-   ```bash
-   git clone [https://github.com/USERNAME_TAU/erp-inventory-postgres.git](https://github.com/USERNAME_TAU/erp-inventory-postgres.git)
-   cd erp-inventory-postgres
